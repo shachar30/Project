@@ -1,0 +1,42 @@
+.section_header
+{
+	width:400px;
+	display: block;
+	background-color: black;
+	color: white;
+
+}
+.section_body
+{
+	width:400px;
+	display: block;
+	background-color: black;
+	color: white;
+}
+
+.section_footer
+{
+	width:400px;
+	display: block;
+	background-color: black;
+	color: white;
+}
+#ButtonNext
+{
+
+	float: right;
+	
+}
+.btn-info
+{
+	background-color: black;
+	border-color: black;
+}
+/*.UpHeader
+{
+	width: 170px;
+	left: 110px;
+  	position: relative;
+  	top: 56px;
+
+}
